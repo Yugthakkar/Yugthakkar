@@ -49,18 +49,7 @@ Conversation with Gemini
 
 
 <p align="center">
-
-<a href="https://twitter.com/yugthakkar094" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
 <a href="https://linkedin.com/in/yug thakkar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://kaggle.com/yughthakkar" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-
-<a href="https://instagram.com/yughimself._" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<a href="https://www.leetcode.com/yug_h_thakkar" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<a href="https://discord.gg/yug_0801" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </p>
 
