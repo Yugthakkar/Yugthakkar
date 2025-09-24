@@ -48,7 +48,7 @@ Conversation with Gemini
 
 
 
-<p align="left">
+<p align="center">
 
 <a href="https://twitter.com/yugthakkar094" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
